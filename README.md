@@ -14,6 +14,6 @@ Detta är **webbtjänsten** för projektet.
 - Den har tre endpoints: Kurser, Jobb och Projekt. Det går även att skicka ett ID med URL:en. 
 
 **Länkar till endpoints:**
-Kurser: https://studenter.miun.se/~lias1700/writeable/projekt-webbtjanst/courses.php
-Jobb: https://studenter.miun.se/~lias1700/writeable/projekt-webbtjanst/works.php
-Projekt: https://studenter.miun.se/~lias1700/writeable/projekt-webbtjanst/websites.php
+- Kurser: https://studenter.miun.se/~lias1700/writeable/projekt-webbtjanst/courses.php
+- Jobb: https://studenter.miun.se/~lias1700/writeable/projekt-webbtjanst/works.php
+- Projekt: https://studenter.miun.se/~lias1700/writeable/projekt-webbtjanst/websites.php
